@@ -1,4 +1,4 @@
-“Quantitative Structure-Activity Relationship in Cancer”
+**“Quantitative Structure-Activity Relationship in Cancer”**
 
 **Introduction:**
 
@@ -20,9 +20,11 @@ Traditional drug discovery typically takes 10-15 years and around 2 billion USD 
 
 The QSAR is composed of following steps:
 
-<!--[if !supportLists]-->1.     <!--[endif]-->**Data collection:** Compound data is retrieved from chemical database, such as, ChEMBL. The data includes structural information, and biological activities (IC50 or KD50, bioassay type etc.
+<!--[if !supportLists]-->1.     <!--[endif]-->**Data collection:** 
+Compound data is retrieved from chemical database, such as, ChEMBL. The data includes structural information, and biological activities (IC50 or KD50, bioassay type etc.
 
-<!--[if !supportLists]-->2.     <!--[endif]-->**Filtration:** This data is then filtered using only those parameters that we need such as, choosing assay type as “binding” and activity type only “IC50”.
+<!--[if !supportLists]-->2.     <!--[endif]-->**Filtration:** 
+This data is then filtered using only those parameters that we need such as, choosing assay type as “binding” and activity type only “IC50”.
 
 <!--[if !supportLists]-->3.     <!--[endif]-->**Descriptor calculation:** Descriptors are numerical values that are used to describe the properties of compounds such as atom count, connectivity, auto correlation, molecular weight etc. Descriptors can be 2D (topological, arrangement of atoms) and 3D (geometrical, obtained from 3D coordinates of atoms). <!--[if supportFields]><span style='mso-element:field-begin'></span><span
  style='mso-ansi-language:EN-US'><span style='mso-spacerun:yes'> </span></span><span
@@ -49,13 +51,14 @@ QSAR is a robust tool in cancer drug discovery that enables the prediction of co
 
 # **References:**
 
-<!--[if !supportLists]-->1.     <!--[endif]--><!--[if supportFields]><span
-  lang=en-PK><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>BIBLIOGRAPHY <span style='mso-element:field-separator'></span></span><![endif]-->Danishuddin, A. U. (2016,). Descriptors and their selection methods in QSAR analysis: paradigm for drug design,. _Drug DIscovery Today_.
+<!--[if !supportLists]-->1.     <!--[endif]-->Danishuddin, A. U. (2016,). Descriptors and their selection methods in QSAR analysis: paradigm for drug design,. _Drug DIscovery Today_.
+  
 
 <!--[if !supportLists]-->2.     <!--[endif]-->Hughes JP, R. S. (2011). Principles of early drug discovery. _Br J Pharmacol_.
 
+
 <!--[if !supportLists]-->3.     <!--[endif]-->Suvannang, N. P. (2018). Probing the origin of estrogen receptor alpha inhibition via large-scale QSAR study. _RSC advances_.
+
 
 <!--[if supportFields]><b><span lang=en-PK
   style='mso-no-proof:yes'><span style='mso-element:field-end'></span></span></b><![endif]--> 
