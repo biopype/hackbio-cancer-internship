@@ -26,15 +26,18 @@ Compound data is retrieved from chemical database, such as, ChEMBL. The data inc
 <!--[if !supportLists]-->2.     <!--[endif]-->**Filtration:** 
 This data is then filtered using only those parameters that we need such as, choosing assay type as “binding” and activity type only “IC50”.
 
-<!--[if !supportLists]-->3.     <!--[endif]-->**Descriptor calculation:** Descriptors are numerical values that are used to describe the properties of compounds such as atom count, connectivity, auto correlation, molecular weight etc. Descriptors can be 2D (topological, arrangement of atoms) and 3D (geometrical, obtained from 3D coordinates of atoms). <!--[if supportFields]><span style='mso-element:field-begin'></span><span
+<!--[if !supportLists]-->3.     <!--[endif]-->**Descriptor calculation:** 
+Descriptors are numerical values that are used to describe the properties of compounds such as atom count, connectivity, auto correlation, molecular weight etc. Descriptors can be 2D (topological, arrangement of atoms) and 3D (geometrical, obtained from 3D coordinates of atoms). <!--[if supportFields]><span style='mso-element:field-begin'></span><span
  style='mso-ansi-language:EN-US'><span style='mso-spacerun:yes'> </span></span><span
  lang=EN-US style='mso-ansi-language:EN-US'>CITATION Dan16 \l 1033 </span><span
  style='mso-element:field-separator'></span><![endif]-->(Danishuddin, 2016,)<!--[if supportFields]><span
  style='mso-element:field-end'></span><![endif]-->
 
-<!--[if !supportLists]-->4.     <!--[endif]-->**Molecular Fingerprints:** Encoded in a binary digit format, fingerprints are used to label a compound’s structural properties. These fingerprints for each molecule are generated in this step.&#x20;
+<!--[if !supportLists]-->4.     <!--[endif]-->**Molecular Fingerprints:** 
+Encoded in a binary digit format, fingerprints are used to label a compound’s structural properties. These fingerprints for each molecule are generated in this step.&#x20;
 
-<!--[if !supportLists]-->5.     <!--[endif]-->**Machine learning employment:** Machine learning algorithms, such as, linear regression, random forest, support vector machines, or neural networks are developed using the data to correlate these descriptors with biological activities. A predictive model is thus created on the calculated descriptors to predict the activity of new compounds by learning from the known ones.
+<!--[if !supportLists]-->5.     <!--[endif]-->**Machine learning employment:** 
+Machine learning algorithms, such as, linear regression, random forest, support vector machines, or neural networks are developed using the data to correlate these descriptors with biological activities. A predictive model is thus created on the calculated descriptors to predict the activity of new compounds by learning from the known ones.
 
 **Example:**
 
