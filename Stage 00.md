@@ -16,7 +16,7 @@ An example of using QSAR in cancer drug discovery is in the development of inhib
 
 QSAR is a robust tool in cancer drug discovery that enables the efficient prediction of compound activity and development of new therapeutic agents. The main benefit of using QSAR is that it employs computational power for a vast chemical data, thus reducing time and cost associated with drug development.
 
-References:
+**References**:
 
 <!--[if supportFields]><span lang=en-PK><span
 style='mso-element:field-begin'></span></span><span lang=en-PK
