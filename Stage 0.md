@@ -30,7 +30,7 @@ This data is then filtered using only those parameters that we need such as, cho
 Descriptors are numerical values that are used to describe the properties of compounds such as atom count, connectivity, auto correlation, molecular weight etc. Descriptors can be 2D (topological, arrangement of atoms) and 3D (geometrical, obtained from 3D coordinates of atoms). <!--[if supportFields]><span style='mso-element:field-begin'></span><span
  style='mso-ansi-language:EN-US'><span style='mso-spacerun:yes'> </span></span><span
  lang=EN-US style='mso-ansi-language:EN-US'>CITATION Dan16 \l 1033 </span><span
- style='mso-element:field-separator'></span><![endif]-->(Danishuddin, 2016,)<!--[if supportFields]><span
+ style='mso-element:field-separator'></span><![endif]-->(Danishuddin, 2016)<!--[if supportFields]><span
  style='mso-element:field-end'></span><![endif]-->
 
 ### 4. **Molecular Fingerprints:** 
