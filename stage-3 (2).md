@@ -93,7 +93,8 @@ This table presents the binding affinity and RMSD values for the top poses of 50
 - This figure shows the active site of EFGR
 
 
-![Structure of EFGR and active site (PDB ID: 5EDP)](./images/Stage-3/5EDP-ACTIVE%20SITE%20.png)
+![image](https://github.com/user-attachments/assets/e2b21e74-8596-4c13-93b7-1d9283475b06)
+
 
 ---
 
@@ -168,18 +169,21 @@ The performance of the model was evaluated using several metrics the following m
 - This figure shows the result of the classified bioactivity data based on IC50 values.
 
 
-![Classification of bioactivity](./images/Stage-3/output.png)
+![image](https://github.com/user-attachments/assets/2d0e1ff7-29f3-4309-a62e-9b13ddde9b09)
+
 
 - This figure shows how bioactivity classes span chemical spaces.
 
 
-![Bioactivity](./images/Stage-3/output-2.png)
+![image](https://github.com/user-attachments/assets/e45b1d75-5ef8-40ed-b389-3162baecf887)
+
 
 
 - This figure shows the result of the trained model
 
 
-![Model training](./images/Stage-3/model_result.png)
+![image](https://github.com/user-attachments/assets/0c1929a2-8e95-4c45-bfa9-8dd28ab0f477)
+
 
 
 
