@@ -2,17 +2,20 @@
 
 [Click here to watch the video](https://youtu.be/DjSeMZIijaU)
 
-![Local image](./images/header.png)
+![image](https://github.com/user-attachments/assets/09bbeeaf-a237-4d78-993c-360a12c7885c)
+
 
 The paper titled "Benchmarking AlphaFold‐enabled molecular docking predictions for antibiotic discovery" presents a significant advancement in the field of drug discovery, particularly focusing on antibiotic development. The authors, including Felix Wong and Aarti Krishnan, explore the integration of AlphaFold2, a state-of-the-art protein structure prediction tool, with molecular docking simulations to enhance the prediction of protein-ligand interactions.
 
 ## Objective and Methodology
-![Local image](./images/methodology.png)
+![image](https://github.com/user-attachments/assets/43e8d6d4-1b23-4d93-87b8-876e75a6c9f3)
+
 
 The primary aim of the study is to address the challenges in identifying drug mechanisms of action. The authors utilize AlphaFold2 to predict the structures of 296 essential proteins from Escherichia coli and assess their interactions with 218 active and 100 inactive antibacterial compounds. This approach is particularly relevant as traditional docking methods rely heavily on existing protein structures, which may not always be available or accurate (Wong et al., 2022).
 
 ## Findings on Promiscuity
-![Local image](./images/result.png)
+![image](https://github.com/user-attachments/assets/f87857ad-774e-4910-80ac-2bc36109214a)
+
 
 The results indicate a notable promiscuity in both compound and protein interactions, suggesting that many compounds can bind to multiple targets. This finding is crucial for understanding the potential off-target effects of antibiotics and the broader implications for drug design. The authors benchmarked their model's performance by measuring the enzymatic activity of 12 essential proteins treated with various antibacterial compounds, revealing an average area under the receiver operating characteristic curve (auROC) of 0.48, which indicates weak predictive performance (Wong et al., 2022).
 
