@@ -243,7 +243,7 @@ Further improvements could be made by exploring additional feature engineering t
 
 The detailed implementation of the machine learning model, including data preprocessing, feature selection, model training, and evaluation, can be found in the accompanying Jupyter Notebook.
 
-[Jupyter Notebook](/Stage-3-Phase-2/model.ipynb)
+[Jupyter Notebook](Stage 3/code.ipynb)
 
 
 ### **References**
