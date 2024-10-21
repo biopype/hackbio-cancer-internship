@@ -225,7 +225,7 @@ The detailed implementation of the machine learning model and data analysis proc
 
 2. **Data Analysis and Visualization**: 
    Source code for data analysis and generation of the binding affinity heatmap.
-   [View Python Script](/stage-4/Phase-2/binding_affinity_heatmap.py)
+   [View Python Script](/stage-4/phase-2/binding_affinity_heatmap.py)
 
 ## 6.0 References
 
