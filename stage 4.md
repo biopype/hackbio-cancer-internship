@@ -221,7 +221,7 @@ The detailed implementation of the machine learning model and data analysis proc
 
 1. **Machine Learning Model Implementation**: 
    A comprehensive Jupyter Notebook detailing data preprocessing, feature selection, model training, and evaluation.
-   [View Jupyter Notebook](/stage-4/Phase-1/code.ipynb)
+   [View Jupyter Notebook](/stage-4/phase-1/code.ipynb)
 
 2. **Data Analysis and Visualization**: 
    Source code for data analysis and generation of the binding affinity heatmap.
